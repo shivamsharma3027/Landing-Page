@@ -9,7 +9,7 @@ function HeroSection() {
 
       {/* Background Video */}
       <video preload="none" autoPlay loop muted className="absolute inset-0 w-full h-full object-cover">
-        <source src="../../public/13203001_3840_2160_30fps.mp4" type="video/mp4" />
+        <source src="https://videos.pexels.com/video-files/30877713/13203000_2560_1440_30fps.mp4" type="video/mp4" />
       </video>
 
       {/* Hero Content */}
